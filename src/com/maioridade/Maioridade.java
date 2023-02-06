@@ -2,7 +2,7 @@ package com.maioridade;
 
 public class Maioridade {
 
-	// Atributos
+	// Atributos   
 	public String nome;
 	public int idade;
 	
